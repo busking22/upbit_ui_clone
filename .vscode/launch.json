@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "ios",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "F5842C8D-5254-4601-B178-E66EE867A0CF"
+    },
+    {
+      "name": "iphone",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "00008020-0016753126D0003A"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "All Devices",
+      "configurations": ["Android", "iPhone"]
+    }
+  ]
+}

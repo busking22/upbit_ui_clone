@@ -2,10 +2,16 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "ios",
+      "name": "iPhone simulator 13",
       "request": "launch",
       "type": "dart",
       "deviceId": "F5842C8D-5254-4601-B178-E66EE867A0CF"
+    },
+    {
+      "name": "iPhone simulator SE2",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "C485307D-4FEA-4EBA-897A-DBE486E26EE8"
     },
     {
       "name": "iphone",
